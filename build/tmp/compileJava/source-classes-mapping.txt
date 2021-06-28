@@ -1,0 +1,26 @@
+com/github/gabrielpadilh4/HelloWorld.java
+ com.github.gabrielpadilh4.HelloWorld
+com/github/gabrielpadilh4/exercises/ExerciseString1.java
+ com.github.gabrielpadilh4.exercises.ExerciseString1
+com/github/gabrielpadilh4/exercises/ExerciseFor.java
+ com.github.gabrielpadilh4.exercises.ExerciseFor
+com/github/gabrielpadilh4/exercises/Car.java
+ com.github.gabrielpadilh4.exercises.Car
+com/github/gabrielpadilh4/exercises/ExerciseObject01.java
+ com.github.gabrielpadilh4.exercises.ExerciseObject01
+com/github/gabrielpadilh4/exercises/oo/Supervisor.java
+ com.github.gabrielpadilh4.exercises.oo.Supervisor
+com/github/gabrielpadilh4/exercises/oo/Gerente.java
+ com.github.gabrielpadilh4.exercises.oo.Gerente
+com/github/gabrielpadilh4/exercises/oo/Funcionario.java
+ com.github.gabrielpadilh4.exercises.oo.Funcionario
+com/github/gabrielpadilh4/exercises/oo/Atendente.java
+ com.github.gabrielpadilh4.exercises.oo.Atendente
+com/github/gabrielpadilh4/exercises/oo/TesteHeranca.java
+ com.github.gabrielpadilh4.exercises.oo.TesteHeranca
+com/github/gabrielpadilh4/exercises/trabalhandocomdatas/ExercicioClasseDate.java
+ com.github.gabrielpadilh4.exercises.trabalhandocomdatas.ExercicioClasseDate
+com/github/gabrielpadilh4/exercises/trabalhandocomdatas/ExercicioClasseCalendar.java
+ com.github.gabrielpadilh4.exercises.trabalhandocomdatas.ExercicioClasseCalendar
+com/github/gabrielpadilh4/exercises/trabalhandocomdatas/ExercicioClasseDatFormat.java
+ com.github.gabrielpadilh4.exercises.trabalhandocomdatas.ExercicioClasseDatFormat
